@@ -1,4 +1,4 @@
-#Meu Mural
+<h1>Meu Mural</h1>
 
 Bem-vindo(a) ao projeto Meu Mural! Este é um sistema simples desenvolvido para demonstrar a integração entre o front-end e o back-end utilizando Node.js e o framework Express.
 
@@ -8,4 +8,4 @@ Este projeto foi desenvolvido com o intuito de demonstrar como integrar o front-
 
 Esse é o primeiro projeto que eu criei que integra o front-end com o back-end e apesar de simples me fez aprender muito sobre como essas tecnologias funcionam, tive que aprender os protocolos http, usar softwares para testar minhas requisições e ir atrás de muitas documentações sobre rotas!
 
-Foi um projeto incrivel pra colocar em prática todo o conhecimento estudado!!
+Foi um projeto incrivel pra colocar em prática todo o conhecimento estudado!
