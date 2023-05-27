@@ -1,4 +1,4 @@
-#Meu Mural
+<h1>Meu Mural</h1>
 
 Bem-vindo(a) ao projeto Meu Mural! Este é um sistema simples desenvolvido para demonstrar a integração entre o front-end e o back-end utilizando Node.js e o framework Express.
 
